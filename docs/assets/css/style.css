@@ -167,3 +167,6 @@ body {
 .main{
   padding-top: 10vh;
 }
+.hidden img{
+  display: none;
+}
